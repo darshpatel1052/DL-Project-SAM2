@@ -465,21 +465,6 @@ We use standard VOS/VOT metrics from the SAM 2 paper:
 
 ---
 
-## Team
-
-| Member | Contribution |
-|--------|--------------|
-| **Member 1** | Kalman filter implementation, motion scoring |
-| **Member 2** | State machine design, occlusion handling |
-| **Member 3** | Evaluation pipeline, visualization, documentation |
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## Acknowledgments
 
